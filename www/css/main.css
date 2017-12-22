@@ -1,0 +1,35 @@
+h1, h2 {
+	font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+	margin-bottom: 30px;
+}
+
+body{
+	background-color: lightgray;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbar{
+	height: 60px;
+
+}
+
+.move{
+	margin-bottom: 10px;
+}
+
+.todo-list, .done-list{
+	background-color: lightyellow;
+	border: 1px solid black;
+}
+
+.list-group-item{
+	border: 1px solid black;
+}
+
+.noPad{
+	padding:0;
+}
